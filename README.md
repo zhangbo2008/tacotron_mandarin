@@ -1,3 +1,16 @@
+
+查看Readme in Chinese 里面有模型下载!!!!!!!!!
+
+
+
+
+
+
+
+
+
+
+
 # Tacotron for mandarin
 
 An implementation of Tacotron speech synthesis in TensorFlow for mandarin. An sythesized audio sample is given in tmp\ directory.
